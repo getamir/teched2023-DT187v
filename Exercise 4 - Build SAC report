@@ -1,0 +1,4 @@
+# Exercise 4 - Build SAC report
+
+After we have built analytical model we need to expose it to SAC consumtion.
+Please follow the following blog https://developers.sap.com/tutorials/abap-environment-analytics.html from step 10 onwards
